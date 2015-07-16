@@ -1,6 +1,3 @@
-# zabbix-hetzner-template
-Template and scripts for getting Hetzner servers traffic usage
-
 System requirements
 -------------------
 Low level discovery script and main Hetzner API script require egg Hetzner:
