@@ -1,4 +1,4 @@
-# zabbix Hetzner Template
+# Zabbix Hetzner Template
 Template and scripts for getting Hetzner servers traffic usage per month
 
 System requirements
